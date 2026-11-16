@@ -1,0 +1,11 @@
+MEDINA IMPORTADOS — DEMONSTRACAO
+
+Abra index.html no navegador ou use o Live Server no VS Code.
+Edite os produtos e precos em script.js e o visual em style.css.
+HTML, CSS e JavaScript puros. Sem instalacao de dependencias.
+
+Busca, filtros, favoritos e sacola funcionam no navegador.
+Checkout apenas simulado: nao cria pedidos nem processa pagamentos.
+Precos e condicoes ilustrativos, a confirmar pela loja.
+Fontes do Google Fonts requerem internet; ha fontes alternativas.
+Para vendas reais, integrar backend, estoque, frete e gateway de pagamento.
